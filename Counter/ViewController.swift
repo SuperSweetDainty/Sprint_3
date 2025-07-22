@@ -7,7 +7,7 @@
 
 import UIKit
 
-private final class ViewController: UIViewController {
+final class ViewController: UIViewController {
     
     @IBOutlet private weak var buttonLabelChanger: UIButton! // связь счётчика и кода
     
